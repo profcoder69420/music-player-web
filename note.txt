@@ -1,4 +1,0 @@
-git status: Kiem tra thay doi
-git add .: Them cac thay doi vao
-git commit -m "message...." : Dong bo cbi day len remote
-git push origin main : day len remote
