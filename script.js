@@ -398,3 +398,4 @@ progressContainer.addEventListener("click", (event) => {
   music.currentTime = time;
   timeTracker();
 });
+
